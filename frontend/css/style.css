@@ -1,0 +1,14 @@
+body {
+    font-family: Arial;
+    margin: 20px;
+}
+
+.card {
+    padding: 10px;
+    border: 1px solid #ccc;
+    margin-bottom: 10px;
+}
+
+.booked {
+    color: red;
+}
